@@ -1,0 +1,7 @@
+# Essential packages for GUI, video analysis, and VMAF metric computation
+PyQt5==5.15.9
+ffmpeg-python==0.2.0
+scikit-image
+ffmpeg-progress-yield
+opencv-python
+jsonschema==4.17.3
